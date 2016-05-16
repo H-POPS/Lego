@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3205589973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f3a30be7099afc40e1652549e3299d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47e5080155a0c3ac2e9ffbbc14e366d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Lego/Lego@Brick_2x8x1_3.prefab
+- Assets/Mods/Lego/Lego@Brick_2x4x1_3.prefab
+- Assets/Mods/Lego/Lego@Brick_1x4.prefab
+- Assets/Mods/Lego/Lego@Brick_2x2.prefab
+- Assets/Mods/Lego/Lego@Brick_2x8.prefab
+- Assets/Mods/Lego/Lego@Brick_2x2x1_3.prefab
+- Assets/Mods/Lego/Lego@Brick_1x1x1_3.prefab
+- Assets/Mods/Lego/Lego@Brick_2x4.prefab
+- Assets/Mods/Lego/Lego@Brick_1x4x1_3.prefab
+- Assets/Mods/Lego/Lego@Brick_1x1.prefab
+Dependencies: []
